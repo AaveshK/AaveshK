@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaveshk&" alt="aaveshk" /></p>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Aaveshk&theme=auto)
+<p><img align="center" src="https://leetcode.card.workers.dev/?username=Aaveshk&theme=auto" alt="aaveshk" /></p>
