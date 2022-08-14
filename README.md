@@ -25,3 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaveshk&" alt="aaveshk" /></p>
 
 <p><img align="center" src="https://leetcode.card.workers.dev/?username=Aaveshk&theme=auto" alt="aaveshk" /></p>
+
+<a href="https://www.abuseipdb.com/user/87402" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/87402.svg" alt="AbuseIPDB Contributor Badge" style="width: 206px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+</a>
