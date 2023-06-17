@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aavesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaveshk&label=Profile%20views&color=0e75b6&style=flat" alt="aaveshk" /> </p>
 
-- 📫 How to reach me **hi@Aavesh.tech**
+- 📫 How to reach me **hi@Aavesh.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
